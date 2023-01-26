@@ -1,0 +1,10 @@
+D:\Programming Study\Git Hub Public Projects\WindowsFormsAppDieRollingGame\DieRollingGame\bin\Debug\DieRollingGame.exe.config
+D:\Programming Study\Git Hub Public Projects\WindowsFormsAppDieRollingGame\DieRollingGame\bin\Debug\DieRollingGame.exe
+D:\Programming Study\Git Hub Public Projects\WindowsFormsAppDieRollingGame\DieRollingGame\bin\Debug\DieRollingGame.pdb
+D:\Programming Study\Git Hub Public Projects\WindowsFormsAppDieRollingGame\DieRollingGame\obj\Debug\DieRollingGame.csproj.AssemblyReference.cache
+D:\Programming Study\Git Hub Public Projects\WindowsFormsAppDieRollingGame\DieRollingGame\obj\Debug\DieRollingGame.Form1.resources
+D:\Programming Study\Git Hub Public Projects\WindowsFormsAppDieRollingGame\DieRollingGame\obj\Debug\DieRollingGame.Properties.Resources.resources
+D:\Programming Study\Git Hub Public Projects\WindowsFormsAppDieRollingGame\DieRollingGame\obj\Debug\DieRollingGame.csproj.GenerateResource.cache
+D:\Programming Study\Git Hub Public Projects\WindowsFormsAppDieRollingGame\DieRollingGame\obj\Debug\DieRollingGame.csproj.CoreCompileInputs.cache
+D:\Programming Study\Git Hub Public Projects\WindowsFormsAppDieRollingGame\DieRollingGame\obj\Debug\DieRollingGame.exe
+D:\Programming Study\Git Hub Public Projects\WindowsFormsAppDieRollingGame\DieRollingGame\obj\Debug\DieRollingGame.pdb
